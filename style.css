@@ -17,5 +17,9 @@ h1{
 #header{
     text-align:center;
 }
-
+#banner{
+  width:100%;
+  height: 200px;
+  background-color:#000000;
+}
 
