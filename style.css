@@ -23,6 +23,7 @@ h1, h2, h3 {
 
 p, ol, ul {
 	margin-top: 0px;
+	position: relative;
 }
 
 p {
